@@ -46,7 +46,7 @@ Even though I’m just getting started, I’ve already laid the foundation with 
 
 *(More coming soon as I complete my training!)*  
 
-- **[Cisco Packet Tracer Network Project](https://github.com/YourUsername/cisco-packet-tracer-network)** – Designed and configured a small LAN using Cisco Packet Tracer, including IP addressing and connectivity testing. Documented the design, troubleshooting, and possible improvements.
+- **[Cisco Packet Tracer Network Project](https://github.com/Cyb3rMonarch/network-with-cisco-packet-tracer/tree/main)** – Designed and configured a small LAN using Cisco Packet Tracer, including IP addressing and connectivity testing. Documented the design, troubleshooting, and possible improvements.
 - **[Placeholder: Cybersecurity Lab Reports](#)** – Hands-on practice reports from HTB labs  
 - **[Placeholder: Python Automation Script](#)** – Simple script to automate repetitive security tasks  
 
