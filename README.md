@@ -61,7 +61,7 @@ Even though I’m just getting started, I’ve already laid the foundation with 
 
 ## 📫 Let's Connect  
 
-- LinkedIn: [Your LinkedIn Profile](#)  
+- LinkedIn: <a href="https://www.linkedin.com/in/resego-mokgopa-749110216"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 - GitHub: [Your GitHub Profile](#)  
 - Email: [your.email@example.com](mailto:your.email@example.com)  
 
